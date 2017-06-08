@@ -3,5 +3,9 @@ html, body, .my-wrapper {
 }
 
 .main-text {
-    color: #f8f8f8;
+    color: #212121;
+}
+
+.link-text{
+  color: #4527a0;
 }
