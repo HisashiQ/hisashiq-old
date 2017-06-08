@@ -2,8 +2,7 @@ $( document ).ready(function() {
   setTimeout(
   function()
   {
-    Materialize.showStaggeredList('#list-main');
-    $('#list-parent').removeClass('hide');
+    $('.main-list').tapTarget('open');
   }, 300);
   setTimeout(
   function()
