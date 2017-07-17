@@ -9,10 +9,3 @@ html, body, .my-wrapper {
 .link-text{
   color: #4527a0;
 }
-
-.background-img{
-  background-image: url("../media/background-1.JPG");
-  background-repeat: no-repeat;
-  height: 100vh;
-  background-size: cover;
-}
